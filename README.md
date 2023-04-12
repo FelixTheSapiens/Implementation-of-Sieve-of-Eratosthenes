@@ -41,6 +41,10 @@ pf.print_results()
 # Example output:
 # Percentage of Primes: 25.0%
 # Execution Time: 0.0012345678901234567 seconds
+
+# Call the get_primes method to get a list of all found primes. PROCEED WITH CAUTION.
+
+print(pf.get_primes())
 ```
 
 ## Requirements
