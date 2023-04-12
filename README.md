@@ -1,5 +1,5 @@
-primeFinder
-primeFinder is a Python class that implements the Sieve of Eratosthenes algorithm for finding prime numbers within a given range.
+## primeFinder
+'primeFinder' is a Python class that implements the Sieve of Eratosthenes algorithm for finding prime numbers within a given range.
 
 Features
 Efficiently finds prime numbers using the Sieve of Eratosthenes algorithm.
@@ -32,7 +32,7 @@ pf.print_results()
 
 # Example output:
 # Percentage of Primes: 25.0%
-# Execution Time: 0.0012345678901234567 seconds
+# Execution Time: 0.001 seconds
 Requirements
 Python 3.x
 License
